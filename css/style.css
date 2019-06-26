@@ -1,0 +1,213 @@
+@font-face{
+	src:url("KaushanScript-Regular.ttf");
+	font-family:'mojFont';
+}
+@font-face{
+	src:url("Saira-Regular.ttf");
+	font-family:'mojFont2';
+}
+*{
+	margin:0px;
+    padding:0px;
+	box-sizing:border-box;
+}
+.cistac{
+	clear:both;
+}
+body{
+	font-family: 'mojFont2';
+	background-color: whitesmoke;
+	position: relative;
+}
+h1{
+	color: #fff;
+	font-family: 'mojFont';
+	font-size: 4.0em !important;
+}
+h2{
+	padding: 2% 0%;
+	font-size: 3em;
+	font-family: 'mojFont';
+	border-bottom: 2px solid #66bb6a;
+}
+.aktivan:hover{
+	text-decoration: none;
+	color: #fff;
+}
+nav{
+	position: fixed;
+	top: 0;
+	z-index: 10;
+}
+i{
+	font-size: 2.1em;
+}
+#dobrodosli{
+	background-image: url("../img/natures.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position:50% 50%;
+	height: 80vh;
+}
+.slikaPozadina .red1 .kolona1{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.slikaPozadina .red1 .kolona1 p{
+	font-family: 'mojFont';
+	font-size: 2em;
+}
+.sekcija2 .red3 .kolona3{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.sekcija2 .red3{
+	margin: 7% 0%;
+}
+
+.sekcija2 .red3 .kolona3 .drzac{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sekcija2 .red3 .kolona3 .drzac img{
+	max-width: 100%;
+	height: auto;
+}
+
+.sekcija2 .red3 .kolona3 h3{
+	padding-top: 3%;
+	font-size: 3em;
+	padding-bottom: 6%;
+}
+
+.sekcija2 .red3 .kolona3 p{
+	font-size: 1.1em;
+	padding: 0% 5%;
+}
+
+.sekcija3 .sekcija31 .red4 .kolona4{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sekcija3 .sekcija31 .red4 .kolona4 h2{
+	font-size: 2.5em;
+	padding: 3% 0%;
+}
+
+.sekcija3 .sekcija31 .red5 .kolona5{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.sekcija3 .sekcija31 .red5 .kolona5 p{
+	padding-bottom: 5%;
+}
+
+.sekcija3 .sekcija31 .red5 .kolona5 a{
+	background-color: rgb(58, 173, 58);
+	width: 20%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 2%;
+}
+
+.sekcija4{
+	width: 100%;
+	padding: 0px;
+	margin: 8% 0px;
+}
+.sekcija4 h3{
+	font-size: 4em;
+	font-family: 'mojFont';
+}
+.sekcija4 h4{
+	font-size: 2em;
+	font-family: 'mojFont';
+}
+.footer{
+	position: absolute;
+}
+
+.footer .kolona6{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 1.2em;
+}
+
+.footer .kolona6 .logoFooter{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer .kolona7 .ikonice1{
+	width: 40%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.footer .kolona7{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.footer .kolona7 p{
+	font-size: 2em;
+}
+
+.footer .kolona7 .info p{
+	font-size: 1.5em;
+}
+
+
+.modalov{
+	margin: 10% 0%;
+}
+
+.modalov .modalov1 h2{
+	text-align: center;
+	font-size: 2.5em;
+	padding-bottom: 5%;
+}
+
+.modalov .modalov1 .redni .kol4{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#textPolje{
+	resize: none;
+}
+#ceoFluid{
+	background-image: url('../img/bio.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+}
+#ceoFluid p{
+	font-size: 1.3em;
+}
+.naslovSaveti p{
+	font-size: 1.4em;
+}
+

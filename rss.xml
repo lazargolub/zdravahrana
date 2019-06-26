@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml version="2.0">
+    <channel>
+        <item>
+            <title>Novi saveti!</title>
+            <description>Dodali smo par saveta za vas!</description>
+            <link>link.com</link>
+        </item>
+        <item>
+            <title>Dodali smo nove proizvode!</title>
+            <description>Upravo su dodati novi proizvodi, pogledajte.</description>
+            <link>link.com</link>
+        </item>
+    </channel>
+</xml>
