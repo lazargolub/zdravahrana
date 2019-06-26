@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://nekisajt.com/index.html</loc>
+        <loc>https://lazargolub.github.io/zdravahrana/index.html</loc>
         <lastmod>2019-06-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>
     <url>
-        <loc>http://nekisajt.com/cenovnik.html</loc>
+        <loc>https://lazargolub.github.io/zdravahrana/saveti.html</loc>
         <lastmod>2019-06-24</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://nekisajt.com/galerija.html</loc>
+        <loc>https://lazargolub.github.io/zdravahrana/proizvodi.html</loc>
         <lastmod>2019-06-09</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://nekisajt.com/kontakt.html</loc>
+        <loc>https://lazargolub.github.io/zdravahrana/autor.html</loc>
         <lastmod>2019-06-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
