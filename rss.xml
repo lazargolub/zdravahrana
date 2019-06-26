@@ -4,12 +4,12 @@
         <item>
             <title>Novi saveti!</title>
             <description>Dodali smo par saveta za vas!</description>
-            <link>link.com</link>
+            <link>https://lazargolub.github.io/zdravahrana/saveti.html</link>
         </item>
         <item>
             <title>Dodali smo nove proizvode!</title>
             <description>Upravo su dodati novi proizvodi, pogledajte.</description>
-            <link>link.com</link>
+            <link>https://lazargolub.github.io/zdravahrana/proizvodi.html</link>
         </item>
     </channel>
 </xml>
